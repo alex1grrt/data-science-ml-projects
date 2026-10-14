@@ -30,13 +30,27 @@ Techniques:
 - Classification accuracy
 - Confusion matrix
 
+### 3. Telco Customer Churn Prediction
+
+A classification project comparing Deep Learning, Random Forest, and XGBoost to predict whether telecommunications customers are likely to leave the company.
+
+Techniques:
+
+- Exploratory Data Analysis
+- One-hot encoding
+- Feature scaling
+- Deep Learning, Random Forest, and XGBoost
+- Classification accuracy
+- Confusion matrix
+
 
 ## Technologies:
 - Python
 - NumPy
 - Pandas
 - Matplotlib
--  Seaborn
+- Seaborn
 - scikit-learn
+- TensorFlow/Keras
 - KaggleHub
 - Google Colab
