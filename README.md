@@ -1,7 +1,7 @@
-# Machine Learning Projects
+# Data Science & Machine Learning Portfolio
 ## Overview
 
-This repository contains my machine learning projects using Python, scikit-learn and TensorFlow. The projects cover different machine learning techniques, including regression, classification, data preprocessing, and model evaluation.
+This portfolio showcases data science and machine learning projects using real-world datasets, covering data preprocessing, exploratory data analysis, visualization, predictive modeling, and model evaluation with Python, scikit-learn, and TensorFlow.
 
 ## Projects:
 
