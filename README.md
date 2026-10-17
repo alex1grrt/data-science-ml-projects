@@ -1,7 +1,7 @@
 # Machine Learning Projects
 ## Overview
 
-This repository contains my machine learning projects using Python and scikit-learn. The projects cover different machine learning techniques, including regression, classification, data preprocessing, and model evaluation.
+This repository contains my machine learning projects using Python, scikit-learn and TensorFlow. The projects cover different machine learning techniques, including regression, classification, data preprocessing, and model evaluation.
 
 ## Projects:
 
