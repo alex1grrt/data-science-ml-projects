@@ -43,8 +43,8 @@ The target variable is `Churn`, which indicates whether a customer left the comp
 The following steps were performed:
 
 1. Load and inspect the dataset
-2. Explore customer characteristics and churn patterns using Exploratory Data Analysis (EDA)
-3. Clean the data and convert TotalCharges to a numeric format
+2. Clean the data and convert TotalCharges to a numeric format
+3. Explore customer characteristics and churn patterns using Exploratory Data Analysis (EDA)
 4. Split the data into training, validation, and test sets
 5. Apply one-hot encoding to categorical features
 6. Standardize numerical features using StandardScaler
