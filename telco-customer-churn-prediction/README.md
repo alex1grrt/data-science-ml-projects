@@ -102,8 +102,8 @@ The loss plot illustrates how the Deep Learning model's training and validation 
 
 ## Conclusion
 
-This project compared Deep Learning, Random Forest, and XGBoost for predicting customer churn. All three models achieved similar overall accuracy, ranging from 81% to 82%.
+This project compared Deep Learning, Random Forest, and XGBoost for predicting customer churn. All three models achieved similar overall accuracy, ranging around 81%.
 
-XGBoost achieved the highest accuracy, while Deep Learning achieved the highest recall and F1-score for the churn class. Random Forest achieved the highest precision for churn predictions.
+Random Forest achieved the highest overall accuracy and precision for the churn class, while Deep Learning achieved the highest recall and F1-score for the churn class.
 
-Overall, Deep Learning was better at identifying customers who actually churned, while XGBoost achieved the best overall accuracy. However, all three models missed a considerable proportion of actual churn cases, indicating potential for further improvement.
+Overall, Deep Learning was better at identifying customers who actually churned, while Random Forest achieved the best overall accuracy. However, all three models missed a considerable proportion of actual churn cases, indicating potential for further improvement.
