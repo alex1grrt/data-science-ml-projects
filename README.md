@@ -43,6 +43,20 @@ Techniques:
 - Classification accuracy
 - Confusion matrix
 
+### 4. Stock Price Forecasting with ARIMA
+
+A time series forecasting project analyzing historical stock market data from 491 companies and evaluating ARIMA models against a naive baseline, with a detailed case study of Meta (META).
+
+Techniques:
+
+- Exploratory Data Analysis
+- Feature engineering
+- Stationarity testing (ADF test)
+- Autocorrelation analysis (ACF/PACF)
+- ARIMA time series forecasting
+- Naive baseline comparison
+- MAE, RMSE, and MASE evaluation
+
 
 ## Technologies:
 - Python
