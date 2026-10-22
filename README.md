@@ -1,7 +1,7 @@
 # Data Science & Machine Learning Portfolio
 ## Overview
 
-This portfolio showcases data science and machine learning projects using real-world datasets, covering data preprocessing, exploratory data analysis, visualization, predictive modeling, and model evaluation with Python, scikit-learn, and TensorFlow.
+This portfolio showcases data science, machine learning, and time series forecasting projects using real-world datasets. Projects cover data preprocessing, exploratory data analysis, data visualization, predictive modeling, and model evaluation using Python and libraries such as pandas, scikit-learn, TensorFlow, and statsmodels.
 
 ## Projects:
 
