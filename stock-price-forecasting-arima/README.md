@@ -8,9 +8,13 @@ The project includes exploratory data analysis (EDA) across 491 stocks and a det
 
 ## Dataset
 
-The dataset was obtained from Kaggle and downloaded using KaggleHub.
+The dataset contains historical stock market data for 491 companies over approximately five years.
 
-It contains historical stock market data for 491 companies over approximately five years.
+The original dataset was obtained from Kaggle and downloaded using KaggleHub. To keep this repository lightweight, the CSV file is not included.
+
+Please download the dataset from the original Kaggle source before running the notebook.
+
+Dataset source: https://www.kaggle.com/datasets/iveeaten3223times/massive-yahoo-finance-dataset
 
 
 The main features include:
