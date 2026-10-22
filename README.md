@@ -64,7 +64,8 @@ Techniques:
 - Pandas
 - Matplotlib
 - Seaborn
-- scikit-learn
+- Scikit-learn
 - TensorFlow/Keras
+- Statsmodels
 - KaggleHub
 - Google Colab
