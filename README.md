@@ -45,7 +45,8 @@ Techniques:
 
 ### 4. Stock Price Forecasting with ARIMA
 
-A time series forecasting project analyzing historical stock market data from 491 companies and evaluating ARIMA models against a naive baseline, with a detailed case study of Meta (META).
+A time series forecasting project predicting closing prices for 491 stocks using ARIMA models and evaluating their performance against a naive baseline.
+A separate in-depth case study on Meta (META) explores ARIMA parameter optimization and evaluates whether the optimized model improves forecasting accuracy.
 
 Techniques:
 
