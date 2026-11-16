@@ -9,7 +9,7 @@ Random Forest and XGBoost are implemented and compared to evaluate their predict
 
 ## Dataset
 
-The dataset contains traffic observations recorded at 15-minute intervals over a period of approximately two months. 
+The dataset is the Traffic Prediction Dataset from Kaggle (https://www.kaggle.com/datasets/hasibullahaman/traffic-prediction-dataset?utm_source=chatgpt.com&select=TrafficTwoMonth.csv). The dataset contains traffic observations recorded at 15-minute intervals over a period of approximately two months. 
 It consists of 5,952 observations and 9 original columns, including weekdays, traffic counts, and traffic situation information.
 
 The target variables are:
