@@ -58,6 +58,19 @@ Techniques:
 - Naive baseline comparison
 - MAE, RMSE, and MASE evaluation
 
+### 5. Traffic Volume Prediction 
+
+A time series regression project comparing Random Forest and XGBoost to predict traffic counts for four vehicle categories: cars, bikes, buses, and trucks. 
+The dataset contains traffic observations recorded at 15-minute intervals over approximately two months. Both models are optimized using RandomizedSearchCV and evaluated on validation and test sets.
+
+- Exploratory Data Analysis
+- Data preprocessing and feature engineering
+- Cyclical time features (hour of day and day of week)
+- Random Forest and XGBoost Multi-output regression
+- R², RMSE, and MAE evaluation
+- Actual vs. predicted visualization
+
+
 
 ## Technologies:
 - Python
